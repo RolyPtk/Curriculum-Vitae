@@ -1,0 +1,170 @@
+.body{
+
+}
+.whole_app{
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+    background-color: azure;
+}
+
+/* left side */
+
+.left_side{
+    margin-right: 1193px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+.image{
+    border-radius: 15px;
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 200px;
+    height: 200px;
+}
+
+/* Contact */
+
+.Contact{
+   margin-top: 150px;
+}
+.Contact_header{
+   
+}
+.Ordered_contact_list{
+    margin-top: -12px;
+    margin-left: -20px;
+}
+
+/* Skills */
+
+.Skills{
+
+}
+.Skills_header{
+
+}
+.Soft_skills{
+    margin-top: -15px;
+    padding-bottom: 1px;
+}
+.Soft_skills_header{
+
+}
+.Hard_skills{
+    margin-top: -15px;
+}
+.Hard_skills_header{
+
+}
+
+/* Languages */
+
+.Languages{
+    margin-top: -12px;
+}
+.Languages_header{
+
+}
+.Language_list{
+    margin-top: -15px;
+    margin-left: -20px;
+}
+
+/* right side */
+
+.right_side{
+    margin-left: 310px;
+    margin-top: -880px;
+    margin-right: 20px;
+    padding-left: 20px;
+    padding-top: 7px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+    background-color: FFF5EE;
+    
+}
+.Name_header{
+    
+}
+.Proffession_title{
+    margin-top: -15px;
+}
+
+/* About me section */
+.About_me_section{
+    margin-top: -7px;
+}
+
+/* Projects */
+.Projects_section{
+    margin-top: -5px;
+}
+.Projects_header{
+
+}
+
+/* Experience */
+.Experience_sction{
+
+}
+.Experience_header{
+
+}
+.Company_name{
+    margin-top: -12px;
+}
+.Job{
+
+}
+.Period{
+    margin-top: -15px;
+    margin-bottom: 10px;
+}
+.Learned_things_list{
+    padding-bottom: 10px;
+}
+
+/* Education */
+
+.Education_seciton{
+    margin-top: -12px;
+}
+.Education_header{
+    padding-bottom: 7px;
+}
+.First_school{
+    margin-top: -15px;
+}
+.School_name{
+    
+}
+.Specialization{
+    margin-top: -15px;
+   margin-bottom: 15px;
+}
+.Second_shool{
+   padding-top: 8px;
+   margin-bottom: 5px;
+}
+.Third_school{
+    padding-top: 6px;
+}
+
+/* Courses */
+.Courses{
+
+}
+.Courses_header{
+
+}
+
+/* Volunteering */
+
+.Volunteering{
+
+}
+.Volunteering_header{
+    margin-bottom: -10px;
+}
